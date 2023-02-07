@@ -1,10 +1,10 @@
 # MATLAB Programming Examples
 
-This repository contains a collection of various programs written in MATLAB. The purpose of this repository is to provide a resource for those who are learning Matlab or simply looking for examples of well-written MATLAB code.
+This repository contains a collection of various programs written in MATLAB. The purpose of this repository is to provide a resource for those who are learning MATLAB or simply looking for examples of well-written MATLAB code.
 
 ## Getting Started
 
-To get started, simply clone the repository to your local machine and navigate to the directory containing the programs you would like to run. Then, run the program in Matlab by typing the file name in the command prompt.
+To get started, simply clone the repository to your local machine and navigate to the directory containing the programs you would like to run. Then, run the program in MATLAB by typing the file name in the command prompt.
 
 ## Contents
 
