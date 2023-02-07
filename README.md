@@ -1,4 +1,4 @@
-# Matlab Programming Examples
+# MATLAB Programming Examples
 
 This repository contains a collection of various programs written in Matlab. The purpose of this repository is to provide a resource for those who are learning Matlab or simply looking for examples of well-written Matlab code.
 
