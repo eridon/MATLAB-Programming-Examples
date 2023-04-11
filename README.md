@@ -19,6 +19,3 @@ The repository contains a variety of programs, including:
 
 If you have any programs that you would like to add to this repository, please feel free to submit a pull request. When submitting a pull request, please make sure that your code is well-documented and follows proper MATLAB coding conventions.
 
-## License
-
-This repository is licensed under the MIT License. Feel free to use the code in this repository as you see fit.
